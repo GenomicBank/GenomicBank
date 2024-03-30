@@ -2,7 +2,7 @@
 
 ### Hi，I'm Aubergine Fu! 👋
 
-- 🔭 I’m working on genomic data compression & high performance computing on CPU and CPU.
-- 🌱 I’m now learning SSD and HDD.
+- 🔭 I’m always working on genomic data compression and high-performance computing on CPU and GPU.
+- 🌱 I have been continuously learning about SDD and HDD, as well as other related storage hardware knowledge.
 - 💬 Ask me Anything [here](https://github.com/GeneStorage/GeneStorage/issues)
 - ⚡ I like bodyfiting & reading.
